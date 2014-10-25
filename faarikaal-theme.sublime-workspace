@@ -1,0 +1,2671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font_face"
+			],
+			[
+				"inn",
+				"inner_margin"
+			],
+			[
+				"content",
+				"content_margin"
+			],
+			[
+				"label",
+				"label_control"
+			],
+			[
+				"button",
+				"button_control"
+			],
+			[
+				"faar",
+				"faarikaal_classic_tabs"
+			],
+			[
+				"row",
+				"row_padding"
+			],
+			[
+				"TXT",
+				"TXT_CON"
+			],
+			[
+				"TXT_",
+				"TXT_NEW"
+			],
+			[
+				"succes",
+				"successful"
+			],
+			[
+				"TEXT",
+				"TEXMASTER"
+			],
+			[
+				"big",
+				"bigskip"
+			],
+			[
+				"listof",
+				"listoffigures"
+			],
+			[
+				"Alzh",
+				"Alzheimer's"
+			],
+			[
+				"particula",
+				"particularly"
+			],
+			[
+				"MarkdownEdi",
+				"MarkdownEditing"
+			],
+			[
+				"text",
+				"textit"
+			],
+			[
+				"spec",
+				"specificity"
+			],
+			[
+				"sensi",
+				"sensitivity"
+			],
+			[
+				"Drop",
+				"DropConnect"
+			],
+			[
+				"install",
+				"install_from_array"
+			],
+			[
+				"te",
+				"textit"
+			],
+			[
+				"alh",
+				"alzheimers"
+			],
+			[
+				"per",
+				"performance"
+			],
+			[
+				"Cir",
+				"Cireşan"
+			],
+			[
+				"artifi",
+				"articifical"
+			],
+			[
+				"optim",
+				"optimization"
+			],
+			[
+				"activat",
+				"activation"
+			],
+			[
+				"unti",
+				"units"
+			],
+			[
+				"struc",
+				"structure"
+			],
+			[
+				"back",
+				"backpropagation"
+			],
+			[
+				"exa",
+				"examples"
+			],
+			[
+				"Fine",
+				"Fine-tuning"
+			],
+			[
+				"arci",
+				"architecture"
+			],
+			[
+				"auto",
+				"autoencoders"
+			],
+			[
+				"item",
+				"itemize"
+			],
+			[
+				"standar",
+				"standardized"
+			],
+			[
+				"alzheimer",
+				"Alzheimer’s"
+			],
+			[
+				"successf",
+				"successfully"
+			],
+			[
+				"Particu",
+				"particularly"
+			],
+			[
+				"trans",
+				"transformations"
+			],
+			[
+				"con",
+				"convolutional"
+			],
+			[
+				"Alz",
+				"Alzheimer's"
+			],
+			[
+				"consiste",
+				"consistently"
+			],
+			[
+				"sub",
+				"sub	Sub Section"
+			],
+			[
+				"op",
+				"optimum"
+			],
+			[
+				"interes",
+				"interesting"
+			],
+			[
+				"algo",
+				"algorithm"
+			],
+			[
+				"neurof",
+				"neurofibrillary"
+			],
+			[
+				"incor",
+				"incorporate"
+			],
+			[
+				"neuro",
+				"neuropathology"
+			],
+			[
+				"standa",
+				"Standardization"
+			],
+			[
+				"diag",
+				"diagnostic"
+			],
+			[
+				"obj",
+				"objective"
+			],
+			[
+				"j",
+				"judgment"
+			],
+			[
+				"imp",
+				"impairment"
+			],
+			[
+				"direc",
+				"directly"
+			],
+			[
+				"techi",
+				"techniques"
+			],
+			[
+				"syp",
+				"symptomatic"
+			],
+			[
+				"symp",
+				"symptomatic"
+			],
+			[
+				"indivi",
+				"individual"
+			],
+			[
+				"Alzheimer",
+				"Alzheimer's"
+			],
+			[
+				"neu",
+				"neuritic"
+			],
+			[
+				"neur",
+				"neuritic"
+			],
+			[
+				"Al",
+				"Alzheimer's"
+			],
+			[
+				"bibli",
+				"bibliography"
+			],
+			[
+				"subs",
+				"subsection"
+			],
+			[
+				"se",
+				"section	Section"
+			],
+			[
+				"QtG",
+				"QtGui	(imported, instance)"
+			],
+			[
+				"menu",
+				"menuBar"
+			],
+			[
+				"check",
+				"check_output	function"
+			],
+			[
+				"env",
+				"environ  (variable)"
+			],
+			[
+				"ArgumentP",
+				"ArgumentParser	(imported, class)"
+			],
+			[
+				"open_new_",
+				"open_new_tab(url)	(imported, function)"
+			],
+			[
+				"xrang",
+				"xrange	(builtin, class)"
+			],
+			[
+				"mul",
+				"multiprocessing"
+			],
+			[
+				"Value",
+				"ValueError	(builtin, class)"
+			],
+			[
+				"__init",
+				"__init__(parent)	(attribute, function)"
+			],
+			[
+				"plato",
+				"platform"
+			],
+			[
+				"init",
+				"__init__  (function)"
+			],
+			[
+				"Tu",
+				"TutorialDialogGui"
+			],
+			[
+				"tutorial",
+				"tutorial_gui	(imported, module)"
+			],
+			[
+				"and",
+				"and/or"
+			],
+			[
+				"de",
+				"debugAlert"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"sy",
+				"system  (function)"
+			],
+			[
+				"Super",
+				"SuperAlarm"
+			],
+			[
+				"os",
+				"os"
+			],
+			[
+				"tar",
+				"target_destination"
+			],
+			[
+				"Sup",
+				"SuperBackup"
+			],
+			[
+				"Make",
+				"MakeBackup"
+			],
+			[
+				"frame",
+				"frame  (variable)"
+			],
+			[
+				"s",
+				"shortBreak  (function)"
+			],
+			[
+				"time",
+				"time  (module)"
+			],
+			[
+				"o",
+				"Controller"
+			],
+			[
+				"platform",
+				"platform (imported, module)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Faarikaal.sublime-theme",
+			"settings":
+			{
+				"buffer_size": 32449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Widget - Faarikaal Dark.stTheme",
+			"settings":
+			{
+				"buffer_size": 2044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 3510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 2493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TODO.md",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CustomTomorrowNightBright.tmTheme",
+			"settings":
+			{
+				"buffer_size": 9331,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"navig",
+				"File Navigator: Open"
+			],
+			[
+				"naviga",
+				"File Navigator: Open"
+			],
+			[
+				"file nav",
+				"File Navigator: Open"
+			],
+			[
+				"file navigator",
+				"File Navigator: Open"
+			],
+			[
+				"file navi",
+				"File Navigator: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"ther",
+				"Themr: Random theme"
+			],
+			[
+				"themr remove",
+				"Themr: Remove current theme from favorites"
+			],
+			[
+				"themr fa",
+				"Themr: List favorite themes"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"eval",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"repl python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"preference",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"upga",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"edit sch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colorschem",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"THEMR",
+				"Themr: List themes"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"upge",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"schemr add",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"schem",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"tempo",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"temporary",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"build",
+				"Build: Show Results"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"themr add",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"repl i",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl ",
+				"SublimeREPL: Shell"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"upperc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"latexing clean",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexing cl",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexing sett",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"latexing remove",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"latexing check",
+				"LaTeXing: Check System"
+			],
+			[
+				"disable page",
+				"Package Control: Disable Package"
+			],
+			[
+				"tools",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latextools",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"toggle focus",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"focus",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"themr remo",
+				"Themr: Remove current theme from favorites"
+			],
+			[
+				"themr ",
+				"Themr: List themes"
+			],
+			[
+				"syntax late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"therm",
+				"Themr: List themes"
+			],
+			[
+				"shcmer",
+				"Git: Branch: switch to master"
+			],
+			[
+				"schemr ",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"thenr",
+				"Themr: Next theme"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"schmemr",
+				"Schemr: Remove current scheme from favorites"
+			],
+			[
+				"edit setting",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"preferences edit settings",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"layout",
+				"Layout: Single"
+			],
+			[
+				"",
+				"Check for Updates"
+			],
+			[
+				"schrm",
+				"Schemr: Random scheme"
+			],
+			[
+				"scherm",
+				"Schemr: Next scheme"
+			],
+			[
+				"upgrae",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybing",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"latex",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"temrinal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"interr",
+				"Interrupt IPython Notebook Kernel"
+			],
+			[
+				"insert ",
+				"InsertDate: Default"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"insert",
+				"InsertDate: Default"
+			],
+			[
+				"insertdate",
+				"InsertDate: Custom"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"notebo",
+				"Open IPython Notebook"
+			],
+			[
+				"notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"repl sh",
+				"SublimeREPL: Shell"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"new snippet",
+				"Tools: New Snippet"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"haskell",
+				"SublimeHaskell: Install"
+			],
+			[
+				"haskell install",
+				"SublimeHaskell: Install"
+			],
+			[
+				"repl ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"update",
+				"Check for Updates"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"cani",
+				"Can I Switch To Sublime Text 3?"
+			],
+			[
+				"pyside",
+				"SublimePySide: Create new Qt Project from template"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"schra",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"schr",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"shcmr",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"origami destro",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"repl run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"run ",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl p",
+				"SublimeREPL: Python"
+			],
+			[
+				"origami",
+				"Origami: Create Pane Below"
+			],
+			[
+				"repl pytho",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"themr list",
+				"Themr: List themes"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color s",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"twitter",
+				"Twitter timeline"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 115.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Eivind/Dropbox/src/various/faarikaal",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Assets"
+	],
+	"file_history":
+	[
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/SublimeFiles.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/SublimeFiles/SublimeFiles.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/LoadFileToRepl.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal.sublime-theme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/CustomTomorrowNightBright.tmTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/TODO.md",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Theme - Default/Default.sublime-theme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Theme - Default/Widgets.stTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Theme - Default/Widget.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Eivind/Dropbox/Public/Bare_tull.mp3",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Seti_UI/README.md",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Seti_UI/icon_c.tmPreferences",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Gravity/package-metadata.json",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Gravity/Gravity.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Default/icons/context.png",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Gravity/assets/Widget - Gravity.stTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Centurion/Centurion.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Centurion/Centurion copy.sublime-theme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/README.md",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Light.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Shell Turtlestein.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/BufferScroll.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/faarikaal-theme.sublime-project",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Dark/Widget - Faarikaal Dark.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Dark/Widget - Faarikaal Dark.stTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Light/Widget - Faarikaal Light.stTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Light/Widget - Faarikaal Light.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Soda/Soda Dark/Widget - Soda Dark.stTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Aprosopo/Aprosopo Dark@st3.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Aprosopo/Theme - Aprosopo.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Spacegray/Spacegray.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Spacegray/Spacegray/Widget - Spacegray.stTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Spacegray/Spacegray/Widget - Spacegray.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Soda/Soda Dark/Widget - Soda Dark 3.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Light/.gitignore",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Dark/.gitignore",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/faarikaal/CustomTomorrowNightBright.tmTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/CustomTomorrowNightBright (SublimePythonIDE).tmTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Haft Lang/HaftLang.sublime-theme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Haft Lang/Haft Lang/Widget - HaftLang.stTheme",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Haft Lang/Haft Lang/Widget - HaftLang.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Dark/Widget - Soda Dark 3.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Seti_UI/Seti_orig.tmTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Light 3.sublime-theme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Dark/.gitignore",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Theme - Haft Lang/Tomorrow-Night-Bright.tmTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Dark.sublime-theme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Dark/Widget - Soda Dark.stTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Dark/Widget - Soda Dark.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Light/.gitignore",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Light/Widget - Soda Light 3.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Light/Widget - Soda Light.stTheme",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Soda Light/Widget - Soda Light.sublime-settings",
+		"/Users/Eivind/Dropbox/src/various/faarikaal/Faarikaal Dark 3.sublime-theme",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/image-processing.tex",
+		"/Users/Eivind/Dropbox/TODO.md",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/latex-git-diff.sh",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/introduction.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/ml-applied.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/mri.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/dataset.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/references.bib",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/alzheimers.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff/diff.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff/diff.pdf",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff/latex-git-diff.sh",
+		"/Users/Eivind/src/Bash/Focu.sh",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff.txt",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/$FILE",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/out.txt",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff-tool/latex-git-diff.sh",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff-tool/diff.txt",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/diff-tool/diff.tex",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/Bøker/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition-Mantesh.pdf",
+		"/Users/Eivind/ADNI/ADNI1 Complete 3Yr 1.5T/ADNI/002_S_0295/MPR__GradWarp__B1_Correction__N3__Scaled/2006-04-18_08_20_30.0/S13408/ADNI_002_S_0295_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070319113623975_S13408_I45108.nii",
+		"/Users/Eivind/ADNI/ADNI1 Complete 3Yr 1.5T/ADNI/002_S_0295/MPR__GradWarp__B1_Correction__N3__Scaled_2/2006-04-18_08_20_30.0/S13408/ADNI_002_S_0295_MR_MPR__GradWarp__B1_Correction__N3__Scaled_2_Br_20081001114556321_S13408_I118671.nii",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/main.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/machine-learning.tex",
+		"/Users/Eivind/Dropbox/alfred.txt",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/datagenerators/classifiers/regression/MexicanHat.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/estimators/CheckEstimator.AttrTypes.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/associations/FPGrowth.AssociationRule.METRIC_TYPE.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/classifiers/bayes/WAODE.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/core/WeightedInstancesHandler.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/gui/ResultHistoryPanel.RKeyAdapter.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/gui/ResultHistoryPanel.RMouseAdapter.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/filters/unsupervised/attribute/Wavelet.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/associations/Apriori.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/associations/Associator.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/doc/weka/attributeSelection/ASEvaluation.html",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/weka-3-6-11/data/weather.nominal.arff",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Eivind/src/Markdown/FlauListe.md",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Eivind/Dropbox/Master/Masteroppgave/Master.sublime-project",
+		"/Users/Eivind/src/Bash/installBrew.sh",
+		"/Users/Eivind/Dropbox/src/Bash/installSublime.sh",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeX.sublime-build",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/hanoi.java",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/analysis.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/bachelor.bib",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/acknowledgments.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/abstract.tex",
+		"/Users/Eivind/Documents/Skole/Master/Masteroppgave/GetSafariPageTitle.workflow/Contents/document.wflow",
+		"/Users/Eivind/Documents/Skole/Master/Masteroppgave/GetSafariPageTitle.workflow/.dropbox.attr",
+		"/Users/Eivind/Documents/Skole/Master/Masteroppgave/Master.sublime-workspace",
+		"/Users/Eivind/Documents/Skole/Master/Masteroppgave/Master.sublime-project",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/sections/alzheimers",
+		"/Users/Eivind/src/Python/MasterCode/Launcher/production.spec",
+		"/Users/Eivind/src/Python/MasterCode/Launcher/build/development/out00-Analysis.toc",
+		"/Users/Eivind/ADNI/ADNI1 Complete 1 Yr 1.5T/002_S_0295/MPR__GradWarp__B1_Correction__N3__Scaled/2006-04-18_08_20_30.0/S13408/ADNI_002_S_0295_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070319113623975_S13408_I45108.nii",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/main.lof",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings.OLD",
+		"/Users/Eivind/src/LaTeX/MasterWritings/spesial-pensum/main.pdf",
+		"/Users/Eivind/Downloads/imagenet-classification-with-deep-convolutional-neural-networks.bib",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/main.tex",
+		"/Users/Eivind/src/LaTeX/MasterWritings/hiof-master-template/main.pdf"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Eivind/Dropbox/src/various/faarikaal",
+			"",
+			"checkers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[22, 22, 29]",
+			"fold_",
+			"[22, 22, 29]",
+			"frame",
+			"highlight",
+			"225",
+			"190",
+			"210",
+			"text field",
+			"input",
+			"frame",
+			"[0, 0, 0]",
+			"highligh",
+			"assets/icon-",
+			"Assets",
+			"tabs",
+			"classic",
+			"sidebar",
+			"folder",
+			"group",
+			"fold",
+			"folder",
+			"sidebar",
+			"Assets",
+			"Neue",
+			"neue",
+			"neure",
+			"tab",
+			"font",
+			"tab",
+			"text button",
+			"find",
+			"font",
+			"Neue",
+			"font",
+			"\"font.face\": \"Helvetica Neue\",",
+			"Faarikaal Dark",
+			"font",
+			"[150, 150, 150]",
+			"150, 150, 150",
+			"icon",
+			"font",
+			"[0, 0, 0]",
+			"0, 0, 0",
+			"22, 22, 29",
+			"widget",
+			"icon",
+			"centurion",
+			"hover",
+			"255, 255, 255",
+			"0, 0, 0",
+			"22, 22, 29",
+			"0, 0, 0",
+			"67, 80, 93 ",
+			"22, 22, 29",
+			"tab",
+			"scroll",
+			"67, 80, 93",
+			"26, 35, 46 ",
+			"67, 80, 93",
+			"22, 22, 29",
+			"margin",
+			"quick",
+			"margin",
+			"padding",
+			"22, 22, 29",
+			"label",
+			"show_tab_close_button",
+			"tab",
+			"show@",
+			"show",
+			"show_tab_close_buttons",
+			"quick panel",
+			"label",
+			"search",
+			"border",
+			"panel",
+			"230, 230, 230",
+			"border",
+			"line",
+			"color",
+			"mon",
+			"folder",
+			"sidebar folder",
+			"folder",
+			"line",
+			"widget",
+			"line",
+			"\\,(?=\\S)",
+			"\\,(?=^\\S)",
+			"\\((?=^\\S)",
+			"\\((?=\\S)",
+			"[0-9],[^!\\s]",
+			"[0-9],[!\\s]",
+			"[0-9],[^!\\s]",
+			"[0-9],[!\\s]",
+			"[0-9],[!-\\s]",
+			"[0-9],[^!-\\s]",
+			"[0-9],[!-\\s]",
+			"[0-9],[^!-\\s]",
+			"[0-9],[!-\\s]",
+			"[0-9],[!\\s-]",
+			"[0-9],[!\\s]",
+			"[0-9],[^-\\s]",
+			"[0-9],",
+			"[0-9], ",
+			"[0-9],",
+			"[0-9],[!\\s]",
+			"255",
+			"22, 22, 29",
+			"quick pane",
+			"255",
+			"color",
+			"125,125,125\n150,150,150\n170,170,170\n",
+			"170",
+			",[0-9]",
+			",0",
+			",[0-9]",
+			"[0-9],[0-9],[0-9]",
+			"[0-9], [0-9], [0-9]",
+			"[0-9]",
+			"^[0-9]*$",
+			"^[0-9]*$, ",
+			"^[0-9]*$",
+			"^[0-9]*",
+			"^[0-9]",
+			"^[1-0], ",
+			"^01, "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[111, 111, 115]",
+			"[104, 141, 181]",
+			"[124, 161, 201]",
+			"[104, 161, 201]",
+			"[124, 181, 251]",
+			"[104, 181, 251]",
+			"[231, 140, 69]",
+			"[255, 196, 110]",
+			"[0, 0, 0]",
+			"[45, 45, 45]",
+			"[215, 215, 215]",
+			"[145, 145, 145]",
+			"[111, 111, 111]",
+			"[75, 75, 75]",
+			"[58, 58, 58]",
+			"assets/icons/icon-",
+			"assets",
+			"Assets",
+			"[240, 240, 240]",
+			"[120, 133, 150]",
+			"45, 45, 45",
+			"119, 132, 152",
+			"22, 22, 29",
+			"0, 0, 0",
+			"22, 22, 29",
+			"57, 70, 83 ",
+			"67, 80, 93 ",
+			"17, 30, 43",
+			"37, 50, 63",
+			"57, 70, 83",
+			"26, 35, 46",
+			"67, 80, 93",
+			"62, 68, 73",
+			"255, 255, 255",
+			"$0 ",
+			" $0",
+			"$0 ",
+			" $0",
+			", $0",
+			", $1",
+			" ,*",
+			" ,[0-9]",
+			"Faarikaal",
+			"faarikaal_",
+			"faarikaal",
+			"checkers",
+			"---*",
+			"$\\Rightarrow$",
+			"\\Rightarrow",
+			"=\\>",
+			"\\cite{krizhevsky_imagenet_2012}",
+			"presence",
+			"sub-neuropathology",
+			"figures/",
+			"self.args.verbose==True",
+			"subprocess.Popen",
+			"bootstrap/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Faarikaal.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21952,
+								21952
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bs_sintax": "json",
+							"buffer_scroll_name": "d8d5625c",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": -1,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Widget - Faarikaal Dark.stTheme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bs_sintax": "xml",
+							"buffer_scroll_name": "d7451ec3",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": 20,
+							"history_list_is_closing": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "2d38e464",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": 2,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Eivind/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								390
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "json",
+							"buffer_scroll_name": "dbd37362",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": 12,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "TODO.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								745,
+								745
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "bfab956c",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": 14,
+							"history_list_is_closing": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "CustomTomorrowNightBright.tmTheme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2721,
+								2721
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bs_sintax": "xml",
+							"buffer_scroll_name": "894fbc1d",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/CustomTomorrowNightBright.tmTheme",
+							"function_name_status_row": 72,
+							"history_list_is_closing": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.679644355353,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotodocumentation":
+	{
+		"height": 104.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 106.0
+	},
+	"output.preferences_editor_help":
+	{
+		"height": 108.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 106.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "faarikaal-theme.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"open",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"",
+				"README.md"
+			],
+			[
+				"app",
+				"App.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/src/Sites/eivindarvesen/website.sublime-project"
+			],
+			[
+				"theme",
+				"~/Dropbox/src/various/faarikaal/faarikaal-theme.sublime-project"
+			],
+			[
+				"scripts",
+				"~/Dropbox/src/Scripts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"",
+				"albert_diagnosis_2011"
+			]
+		],
+		"width": 563.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

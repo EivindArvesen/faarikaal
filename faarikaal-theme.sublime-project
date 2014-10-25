@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Eivind/src/LaTeX/MasterWritings"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Eivind/src/Python/MasterCode"
+		}
+	]
+}
