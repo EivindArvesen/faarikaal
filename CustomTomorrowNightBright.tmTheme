@@ -20,9 +20,26 @@
                 <key>invisibles</key>
                 <string>#343434</string>
                 <key>lineHighlight</key>
-                <string>#1A1A21</string>
+                <string>#232329</string>
                 <key>selection</key>
                 <string>#424242</string>
+                <!-- <key>gutter</key>
+                <string>#18181F</string>
+                <key>gutterForeground</key>
+                <string>#424242</string> -->
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Block Cursor</string>
+            <key>scope</key>
+            <string>block_cursor</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9F9F9F</string>
+                <key>background</key>
+                <string>#9F9F9F</string>
             </dict>
         </dict>
         <dict>

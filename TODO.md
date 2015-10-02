@@ -2,30 +2,56 @@
 
 Build-system: (slett om finnes alt) symlink <project folder> to "DEBUG" in <Packages> (fra browse?) --- sleng inn "DEBUG" i .sublime-theme filnavn!!!
 
-- Debug med tab scrolling og sidebar open files...
+- Sidebar alignment (se Predawn for alternativ...)
+- Konsistent ikonbruk mellom tabs og open files?
 - Spikre farger fullstendig
-- Customize Colorscheme (basèr) quotes/strings (farget mens focus) og TeX parameter (section navn etc.) på "base16-tomorrow.dark"
 - Ny Readme
+- Switch (settings) for outline/fylt folder-icon i sidebar?
 - Sletting eller omgjøring av gh-pages branch
-- Theme_settings: highlight-farge, sidebar-size etc.
+- Theme_settings: highlight-farge, sidebar-size etc. ?
 - NEW NAME! Orca? Dalmatian? Eigengrau?
-- Minimal variant: Helt sort bakgrunn, over alt. Grå (58) borders på 1 px mellom hver distinkte vindusdel, se Tech49.
-- Tilsvarende hvit, minimal variant?
-- Color schemes for minimale varianter...
+- FLAT SWITCH
+- Tilsvarende grå variant
+- Tilsvarende lys variant?
+- Color schemes for lys variant...
+- Licenses for Soda Theme (CC) and Tomorrow Color Scheme (MIT)
+- License for icons (Glyphicons?)...
+- Send til Package Control: https://sublime.wbond.net/docs#Package_Developers
+    Kan pakken (https://sublime.wbond.net/packages/ChannelRepositoryTools) være til hjelp her?
+- Bug: sidebar row hover (enable, bg...)
+- Se på NRK chromecast player og ny YouTube HTML5 player for fargeinspirasjon til reinspikka mørk/lys varianter!
+
+22, 22, 29 - #16161D
+27, 27, 27 - #1B1B1B
+30, 30, 30 - #1E1E1E
+
+Color scheme contains settings for BlockCursorEverywhere
 
 ##COLORS:
 0, 0, 0
+15, 15, 15
+17, 17, 24
 22, 22, 29
-30, 30, 30
-33, 33, 33
-35, 35, 35
-58, 58, 58 (border, grid) / tidl. 4 SORT
+24, 24, 24 (Spotify background)
+32, 32, 39
+34, 12, 29 (komplimenterende rød)
+35, 35, 35 (samme som sort menubar...)
+37, 37, 37 (samme som sort menubar...)
+40, 40, 40 (Spotify selection, sidebar background)
+42, 42, 49
+50, 55, 75
+51, 51, 51 (Spotify popup menu background)
+52, 52, 59
+55, 55, 55 (Mørk Yosemite meny)
+68, 68, 68 (Spotify popup menu selection)
 70, 70, 70
+77, 77, 77 spotify selected
+111, 110, 115 (markørfarge i sort menubar)
 125, 125, 125
 150, 150, 150
 170, 170, 170
 190, 190, 190
-210, 210, 210
+246, 246. 246 (i stedet for [0, 0, 0], light, sorte ikoner...)
 255, 255, 255
 
 ##POTENTIAL HIGHLIGHTS:

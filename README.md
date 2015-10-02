@@ -3,7 +3,7 @@
 A monochromatic, minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and make other elements less intrusive.
 
 Based upon the brilliant [Soda Theme](http://buymeasoda.github.io/soda-theme/),
-with inspiration from Gravity, El Capitan, Haft Lang, Devastate and Spacegray...
+with inspiration from Gravity, El Capitan, Haft Lang, Devastate and Spacegray (and the Atom theme One Dark)...
 
 Using icons from the great [Font Awesome][http://fortawesome.github.io/Font-Awesome/]
 
@@ -11,7 +11,7 @@ Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/f
 
 ## Design
 
-![Faarikaal Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![Faarikaal Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
 
 ## Installation
 
