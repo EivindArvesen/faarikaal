@@ -1,5 +1,7 @@
 # Faarikaal Theme
 
+### WORK IN PROGRESS!
+
 A monochromatic, minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and make other elements less intrusive.
 
 Based upon the brilliant [Soda Theme](http://buymeasoda.github.io/soda-theme/),
