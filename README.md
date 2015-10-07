@@ -1,19 +1,20 @@
 # Faarikaal Theme
 
 ### WORK IN PROGRESS!
+**This theme is *not* yet submitted to package control, even though this file contains installation instructions using it.**
 
 A monochromatic, minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and make other elements less intrusive.
 
 Based upon the brilliant [Soda Theme](http://buymeasoda.github.io/soda-theme/),
 with inspiration from Gravity, El Capitan, Haft Lang, Devastate and Spacegray (and the Atom theme One Dark)...
 
-Using icons from the great [Font Awesome][http://fortawesome.github.io/Font-Awesome/]
+This theme uses icons from the great [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
-Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/faarikaal/)
+<!-- Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/faarikaal/ -->
 
 ## Design
 
-![Faarikaal Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![Faarikaal Theme](faarikaal.png?)
 
 ## Installation
 
@@ -51,6 +52,7 @@ While inside the `Packages` directory, clone the theme repository using the comm
         "theme": "Faarikaal.sublime-theme"
     }
 
+<!--
 ## Additional Features
 
 ### Sidebar Folder Icons
@@ -67,6 +69,8 @@ Faarikaal has been designed to take advantage of retina resolution (high-dpi) di
 
 ## Bonus Options
 
+-->
+
 ### Syntax Highlighting Colour Schemes
 
 The colors scheme shown in the screenshot is a modified version of Tomorrow Night Bright,
@@ -74,7 +78,7 @@ which is distributed with the Faarikaal theme.
 
 ### Code Font
 
-The code font shown in the screenshot is Droid Sans Mono.
+The code font shown in the screenshot is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
 
 ## License
 
