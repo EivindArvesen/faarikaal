@@ -74,8 +74,7 @@ Faarikaal has been designed to take advantage of retina resolution (high-dpi) di
 
 ### Syntax Highlighting Colour Schemes
 
-The colors scheme shown in the screenshot is a modified version of Tomorrow Night Bright,
-which is distributed with the Faarikaal theme.
+The color scheme shown in the screenshot is a modified version of [Tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme) Night Bright (based on the file from [this](https://github.com/theymaybecoders/sublime-tomorrow-theme) repo), which is distributed with the Faarikaal theme.
 
 This color scheme can be enabled by adding (or updating) your color scheme entry to be `"color_scheme": "CustomTomorrowNightBright.tmTheme"`
 
@@ -91,10 +90,4 @@ The code font shown in the screenshot is [Source Code Pro](https://github.com/ad
 
 ## License
 
-Faarikaal is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme, however please abide by the license terms when doing so.
-
-The following details apply to the Creative Commons license "author specified" components:
-
-* Attribution example: Based on Faarikaal Theme by Eivind Arvesen (http://www.eivindarvesen.com)
-
-* Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Faarikaal Theme" (or a close variant) in the main project title, repo name or Package Control name.
+Faarikaal is licensed under the [MIT License](LICENSE.txt).
