@@ -7,9 +7,9 @@
 
 A minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and to make other elements less intrusive.
 
-Faarikaal is based upon the brilliant [Soda Theme](https://github.com/buymeasoda/soda-theme) by [Ian Hill](http://buymeasoda.com/), with inspiration from Gravity, El Capitan, Haft Lang, Devastate and Spacegray (and the Atom theme One Dark)...
+Faarikaal is based upon the brilliant [Soda Theme](https://github.com/buymeasoda/soda-theme) by [Ian Hill](http://buymeasoda.com/), and is partially inspired by other Sublime Text themes like [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme), [El Capitan](https://github.com/iccir/El-Capitan-Theme), [Devastate](https://github.com/vlakarados/devastate) and [Spacegray](https://github.com/kkga/spacegray), in addition to the Atom theme [One Dark](https://github.com/atom/one-dark-ui).
 
-This theme uses icons from the great [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+This theme uses icons from the great [Font Awesome](http://fortawesome.github.io/Font-Awesome/).
 
 <!-- Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/faarikaal/ -->
 
@@ -23,11 +23,11 @@ Faarikaal theme is designed to work with the latest beta builds of [Sublime Text
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Faarikaal` in the packages list.
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Faarikaal Theme package is listed as `Theme - Faarikaal` in the packages list.
 
 ### Using Git
 
-Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
+Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area, and regularly pulling from upstream.
 
 You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
