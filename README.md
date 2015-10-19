@@ -3,13 +3,15 @@
 ### WORK IN PROGRESS!
 **This theme is *not* yet submitted to package control, even though this file contains installation instructions and other information suggesting it is.**
 
+---
+
 <!-- monochromatic, -->
 
 A minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and to make other elements less intrusive.
 
-Faarikaal is based upon the brilliant [Soda Theme](https://github.com/buymeasoda/soda-theme) by [Ian Hill](http://buymeasoda.com/), and is partially inspired by other Sublime Text themes like [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme), [El Capitan](https://github.com/iccir/El-Capitan-Theme), [Devastate](https://github.com/vlakarados/devastate) and [Spacegray](https://github.com/kkga/spacegray), in addition to the Atom theme [One Dark](https://github.com/atom/one-dark-ui).
+Faarikaal is based upon [Soda Theme](https://github.com/buymeasoda/soda-theme) by [Ian Hill](http://buymeasoda.com/), and is partially inspired by other Sublime Text themes like [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme), [El Capitan](https://github.com/iccir/El-Capitan-Theme), [Devastate](https://github.com/vlakarados/devastate) and [Spacegray](https://github.com/kkga/spacegray), in addition to the Atom theme [One Dark](https://github.com/atom/one-dark-ui).
 
-This theme uses icons from the great [Font Awesome](http://fortawesome.github.io/Font-Awesome/).
+This theme uses icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/).
 
 <!-- Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/faarikaal/ -->
 
