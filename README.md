@@ -1,10 +1,5 @@
 # Faarikaal Theme
 
-### WORK IN PROGRESS!
-**This theme is *not* yet submitted to package control, even though this file contains installation instructions and other information suggesting it is.**
-
----
-
 <!-- monochromatic, -->
 
 A minimalistic, flat and dark theme for Sublime Text 3 that aims to put focus on your code and to make other elements less intrusive.
