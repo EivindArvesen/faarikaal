@@ -8,7 +8,7 @@ Faarikaal is based upon [Soda Theme](https://github.com/buymeasoda/soda-theme) b
 
 This theme uses icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/).
 
-<!-- Project site: [http://eivind88.github.io/faarikaal/](http://eivind88.github.io/faarikaal/ -->
+<!-- Project site: [http://EivindArvesen.github.io/faarikaal/](http://EivindArvesen.github.io/faarikaal/ -->
 
 ## Design
 
@@ -30,7 +30,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/eivind88/faarikaal/ "Theme - Faarikaal"
+    git clone https://github.com/EivindArvesen/faarikaal/ "Theme - Faarikaal"
 
 ### Download Manually
 
